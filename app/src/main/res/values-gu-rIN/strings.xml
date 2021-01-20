@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"ફક્ત જાવા "</string>
+    <string name="toast_message_atleast">૧ કોફી તો પીવી જ પડે !</string>
+    <string name="toast_message_atmost">૧૦૦ કોફી થી વધારે ના મળે !</string>
+    <string name="order_summary">"ઓર્ડર સારાંશ "</string>
+    <string name="name">"નામ "</string>
+    <string name="toppings">"ઘટક દ્રવ્યો "</string>
+    <string name="whipped_cream">"જાડુ ક્રીમ "</string>
+    <string name="chocolate">"ચોકલૅટ "</string>
+    <string name="quantity">જથ્થો</string>
+    <string name="total_price">"કુલ કિંમંત "</string>
+    <string name="order">"ઓર્ડર "</string>
+    <string name="coffee_is_ready">, આપણી કોફી તૈયાર છે !</string>
+    <string name="whipped_cream_choice">"ક્રીમ ઉમેરવું "</string>
+    <string name="yes">"હા "</string>
+    <string name="no">"ના "</string>
+    <string name="chocolate_choice">"ચોકલૅટ ઉમેરવી "</string>
+    <string name="total">કુલ કિંમત $</string>
+    <string name="thank_you">"આભાર "</string>
+    <string name="order_for">ફક્ત જાવા - ઓર્ડર કરનાર :</string>
+    <string name="send_via">"આના મારફતે ઓર્ડર કરો "</string>
+    <string name="no_mail_clients">આપણી પાસે ઇમેઇલ કરવા કોઈ app નથી.</string>
+    <string name="no_alarm_clients">આપણી પાસે એલાર્મ મુકવા કોઈ app નથી.</string>
+</resources>

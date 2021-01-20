@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"सिर्फ जावा "</string>
+    <string name="toast_message_atleast">१ कॉफी तो पीनी ही पड़ेगी !</string>
+    <string name="toast_message_atmost">१०० कॉफी से ज्यादा नहीं ले सकते !</string>
+    <string name="order_summary">"आर्डर सारांश "</string>
+    <string name="name">"नाम "</string>
+    <string name="toppings">"सामग्री "</string>
+    <string name="whipped_cream">"गाढ़ा क्रीम "</string>
+    <string name="chocolate">"चॉकलेट "</string>
+    <string name="quantity">"मात्रा "</string>
+    <string name="total_price">"कुल किंमत  "</string>
+    <string name="order">"आर्डर "</string>
+    <string name="coffee_is_ready">, आपकी कॉफी तैयार है !</string>
+    <string name="whipped_cream_choice">"क्रीम मिलाए  "</string>
+    <string name="yes">"हा "</string>
+    <string name="no">"नहीं "</string>
+    <string name="chocolate_choice">"चॉकलेट मिलाए "</string>
+    <string name="total">"कुल किम्मत $ "</string>
+    <string name="thank_you">"शुक्रिया "</string>
+    <string name="order_for">"सिर्फ जावा : आर्डर करनेवाला "</string>
+    <string name="send_via">"इससे आर्डर करे "</string>
+    <string name="no_mail_clients">"आपके पास कोई ईमेल अप्प नहीं है "</string>
+    <string name="no_alarm_clients">"आपके पास कोई अलार्म अप्प नहीं है "</string>
+</resources>

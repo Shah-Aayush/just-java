@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="toast_message_atleast">You cannot have less than 1 coffee.</string>
+    <string name="toast_message_atmost">You cannot have more than 100 coffee.</string>
+    <string name="order_summary">Order Summary</string>
+    <string name="name">Name</string>
+    <string name="toppings">Toppings</string>
+    <string name="whipped_cream">Whipped Cream</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="quantity">Quantity</string>
+    <string name="total_price">Total price</string>
+    <string name="order">Order</string>
+    <string name="coffee_is_ready">, your coffee is ready!</string>
+    <string name="whipped_cream_choice">Add whipped cream</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="chocolate_choice">Add chocolate</string>
+    <string name="total">Total : $</string>
+    <string name="thank_you">Thank you!</string>
+    <string name="order_for">JustJava Order for </string>
+    <string name="send_via">Send order via : </string>
+    <string name="no_mail_clients">There are no email clients installed.</string>
+    <string name="no_alarm_clients">There are no alarm clients installed.</string>
+</resources>
