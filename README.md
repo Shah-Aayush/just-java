@@ -8,6 +8,7 @@ Coffee ordering android app.
   - Easy UI.
   - Lottie animations
   - Toast messages
+
 This is simple app made with basic concepts in android like Intents, Different Views and Localization (language support).
 
 
