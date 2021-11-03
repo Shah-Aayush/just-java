@@ -12,6 +12,5 @@ This is simple app made with basic concepts in android like Intents, Different V
 ## App in Action 🚀 
 
 
-
-https://user-images.githubusercontent.com/63921776/140014557-166d8b20-ed0f-4336-958c-b76bf1842d33.mp4
+https://user-images.githubusercontent.com/63921776/140018271-7ee9b161-368a-4ab2-969f-b77e86070187.mp4
 
